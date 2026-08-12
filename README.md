@@ -2,7 +2,7 @@
 
 An embedded systems development board based on the **STM32G474RE** microcontroller.
 
-![EmbLynx board](https://github.com/halherta/IoTLynx/blob/main/images/EmbLynx_photo.jpg)
+![EmbLynx board](https://github.com/halherta/stm32g474board/blob/main/images/EmbLynx_photo.jpg)
 
 EmbLynx is a compact, feature-rich development board built around ST's STM32G474RE — a mixed-signal Cortex-M4 SoC with an unusually dense analog front end (5x ADC, 7x DAC, 6x OPAMP, 7x comparator) alongside DSP/math accelerators aimed at digital power conversion, motor control, and precision sensing. The board exposes that analog and digital peripheral set on standard 0.1" headers so it can be used as a general-purpose prototyping platform or stacked with daughterboards.
 
@@ -55,14 +55,14 @@ Full write-up: [hussamtalkstech.com/emblynx](https://hussamtalkstech.com/emblynx
 
 ### Schematic
 
-![EmbLynx board schematic](https://github.com/halherta/IoTLynx/blob/main/images/schematic.svg)
+![EmbLynx board schematic](https://github.com/halherta/stm32g474board/blob/main/images/schematic.svg)
 
-A rendered PDF of the full schematic is included at [`docs/schematic.pdf`](docs/schematic.pdf) (also available [here](https://hussamtalkstech.com/wp-content/uploads/stm32g474board.pdf)).
+A rendered PDF of the full schematic is included at[here](https://github.com/halherta/stm32g474board/blob/main/stm32g474board.pdf).
 
 
 ### Layout
 
-![EmbLynx board layout](https://github.com/halherta/IoTLynx/blob/main/images/layout.png)
+![EmbLynx board layout](https://github.com/halherta/stm32g474board/blob/main/images/layout.png)
 
 ## Power architecture
 
