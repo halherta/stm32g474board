@@ -57,12 +57,16 @@ Full write-up: [hussamtalkstech.com/emblynx](https://hussamtalkstech.com/emblynx
 
 ![EmbLynx board schematic](https://github.com/halherta/stm32g474board/blob/main/images/schematic.svg)
 
-A rendered PDF of the full schematic is included at[here](https://github.com/halherta/stm32g474board/blob/main/stm32g474board.pdf).
+A rendered PDF of the full schematic is included [here](https://github.com/halherta/stm32g474board/blob/main/stm32g474board.pdf).
 
 
 ### Layout
 
 ![EmbLynx board layout](https://github.com/halherta/stm32g474board/blob/main/images/layout.png)
+
+### Parts Library
+
+my latest Kicad footprint / symbol parts library cab always be found [here](https://github.com/halherta/mykicadlibrary)
 
 ## Power architecture
 
