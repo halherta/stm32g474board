@@ -51,7 +51,7 @@ Full write-up: [hussamtalkstech.com/emblynx](https://hussamtalkstech.com/emblynx
    ```bash
    git clone https://github.com/halherta/stm32g474board.git
    ```
-2. Open `hardware/emblynx.kicad_pro` in KiCad.
+2. Open `stm32g474board.kicad_pro` in KiCad.
 
 ### Schematic
 
